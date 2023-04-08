@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2966800b.css",
+    "main.js": "/static/js/main.c7029bc4.js",
+    "static/media/Magna.png": "/static/media/Magna.2630a3e3ee8edf0e8fda.png",
+    "index.html": "/index.html",
+    "main.2966800b.css.map": "/static/css/main.2966800b.css.map",
+    "main.c7029bc4.js.map": "/static/js/main.c7029bc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2966800b.css",
+    "static/js/main.c7029bc4.js"
+  ]
+}
